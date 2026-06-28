@@ -53,6 +53,3 @@ This project presents an interactive Retail Sales Performance Dashboard develope
 | dashboard.png | Dashboard screenshot |
 | retail_sales_data.xlsx | Dataset used |
 | README.md | Project documentation |
-rthi S.P.**
-
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
